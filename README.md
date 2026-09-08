@@ -1,6 +1,6 @@
 ### Hi, I'm Shreyas 👋
 
-For 17 years I taught JEE Physics to lakhs of students at Vedantu, Unacademy, and Physics Wallah. Most recently I was Head of Department at Vedantu, where I owned hiring, training, and curriculum for a team teaching hundreds of thousands of students. B.Tech Mechanical from VNIT Nagpur, AIR 3920 in JEE 2005, and a few years as an engineer at National Instruments before coaching took over.
+For 13 years I taught JEE Physics to lakhs of students at Vedantu, Unacademy, and Physics Wallah. Most recently I was Head of Department at Vedantu, where I owned hiring, training, and curriculum for a team teaching hundreds of thousands of students. Before that, 3 years as an engineer at National Instruments. B.Tech Mechanical from VNIT Nagpur, AIR 3920 in JEE 2005.
 
 I'm now moving into product and tech. The projects below are how I've been learning to build, not just teach: full apps, an autonomous trading agent, and a game engine, all built solo.
 
