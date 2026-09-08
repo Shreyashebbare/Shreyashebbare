@@ -40,4 +40,4 @@ What it demonstrates: shipping automation that runs unattended and stays reliabl
 
 **Currently:** looking at product and tech roles, especially where deep understanding of how students actually learn is an asset rather than a footnote.
 
-📫 Reach me on X: [@yourhandle](https://x.com/yourhandle) · or [LinkedIn](https://linkedin.com/in/yourprofile)
+📫 Reach me on [X](https://x.com/shreyasdhebbare) or [LinkedIn](https://www.linkedin.com/in/shreyashebbare/)
