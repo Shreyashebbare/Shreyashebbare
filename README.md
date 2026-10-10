@@ -1,8 +1,8 @@
 ### Hi, I'm Shreyas 👋
 
-For 13 years I taught JEE Physics to lakhs of students at Vedantu, Unacademy, and Physics Wallah. Most recently I was Head of Department at Vedantu, where I owned hiring, training, and curriculum for a team teaching hundreds of thousands of students. Before that, 3 years as an engineer at National Instruments. B.Tech Mechanical from VNIT Nagpur, AIR 3920 in JEE 2005.
+For 14 years I've taught JEE Physics to lakhs of students, including at Vedantu and Unacademy. At Vedantu I was Head of Department, where I owned hiring, training, and curriculum for a team teaching hundreds of thousands of students. Before that, 3 years as an engineer at National Instruments. B.Tech Mechanical from VNIT Nagpur, AIR 3920 in JEE 2005.
 
-I'm now moving into product and tech. The projects below are how I've been learning to build, not just teach: full apps, an autonomous trading agent, and a game engine, all built solo.
+I now work in Vedantu's product team alongside teaching. The projects below are how I've been learning to build, not just teach: full apps, an autonomous trading agent, and a game engine, all built solo.
 
 ---
 
@@ -38,6 +38,6 @@ What it demonstrates: shipping automation that runs unattended and stays reliabl
 
 ---
 
-**Currently:** looking at product and tech roles, especially where deep understanding of how students actually learn is an asset rather than a footnote.
+**Currently:** Academic Product + Educator at Vedantu, teaching JEE for students in Tamil Nadu and working in the product team, where deep understanding of how students actually learn is an asset rather than a footnote.
 
-📫 Reach me on [X](https://x.com/shreyasdhebbare) or [LinkedIn](https://www.linkedin.com/in/shreyashebbare/)
+📫 Reach me on [X](https://x.com/Captain_SRH) or [LinkedIn](https://www.linkedin.com/in/shreyashebbare/)
