@@ -38,6 +38,6 @@ What it demonstrates: shipping automation that runs unattended and stays reliabl
 
 ---
 
-**Currently:** Academic Product + Educator at Vedantu, teaching JEE for students in Tamil Nadu and working in the product team, where deep understanding of how students actually learn is an asset rather than a footnote.
+**Currently:** Academic Product + Educator at Vedantu, working in the product team and teaching JEE for students in Tamil Nadu, where deep understanding of how students actually learn is an asset rather than a footnote.
 
 📫 Reach me on [X](https://x.com/Captain_SRH) or [LinkedIn](https://www.linkedin.com/in/shreyashebbare/)
